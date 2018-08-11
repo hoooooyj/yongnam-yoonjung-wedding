@@ -1374,7 +1374,7 @@ body {
   display: none;
 }
 .cid-qIia8mgjVj {
-  background-image: url("../../../assets/images/yeuido_date.JPG");
+  background-image: url("../../../assets/images/yeuido_date_edited_.jpg");
 }
 .cid-qIieWoha50 {
   padding-top: 60px;
@@ -1418,7 +1418,7 @@ body {
 .cid-qIicQ8Vcwz {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/backgroud_flower.jpg");
+  background-image: url("../../../assets/images/backgroud_flower_edited.jpg");
 }
 .cid-qIicQ8Vcwz H2 {
   color: #ffffff;
@@ -1482,7 +1482,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-qIix9MZdYF .mbr-figure {
-    padding-right: 4rem;
+	padding-right:0;
   }
 }
 @media (max-width: 991px) {
